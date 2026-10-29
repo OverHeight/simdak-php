@@ -1,0 +1,7 @@
+# Self Docs
+docs/
+*.docx
+*.pdf
+
+# macOS
+.DS_Store

@@ -1,0 +1,4 @@
+/*
+ * Bridge file (spec compliance) — canonical styles live in assets/css/style.css
+ */
+@import url("assets/css/style.css");
